@@ -1,0 +1,71 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-08-18T18:58:07.299531Z",
+    "firstAccessTime": "2026-06-23T04:47:10.096523Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "d18a3c65-1620-40c0-915f-d82f19c69dc3"
+      }
+    },
+    "name": "OMNI Aggregator",
+    "description": "OMNI-Aggregator \u0026 Autonomous Key Provisioning Engine with Gemini High Thinking",
+    "runtimeType": 2
+  }, {
+    "lastAccessTime": "2026-07-29T09:03:15.768888Z",
+    "firstAccessTime": "2026-07-28T11:51:05.905546Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "c78bcf39-4867-416e-9822-478d92d4814d"
+      }
+    },
+    "name": "GeoSeekerNotTweaker",
+    "description": "Play hide and seek against Gemini on Google Maps. Use streetview images and directional clues to guess where Gemini is hiding."
+  }, {
+    "lastAccessTime": "2026-07-28T11:49:02.017608Z",
+    "firstAccessTime": "2026-07-28T11:49:02.017608Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "geoseeker"
+      }
+    },
+    "name": "GeoSeeker",
+    "description": "Play hide and seek against Gemini on Google Maps. Use streetview images and directional clues to guess where Gemini is hiding."
+  }, {
+    "lastAccessTime": "2026-07-18T09:10:22.597935Z",
+    "firstAccessTime": "2026-07-18T09:06:13.292078Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "cosmic_flow"
+      }
+    },
+    "name": "Cosmic Flow",
+    "description": "Collaborate live with others to create living particle art."
+  }, {
+    "lastAccessTime": "2026-06-25T02:59:18.837446Z",
+    "firstAccessTime": "2026-06-23T12:07:45.755555Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "d6935575-2326-45b3-9e3e-731f83a24548"
+      }
+    },
+    "name": "Loom OS",
+    "description": "A modular, Rust-based creator suite using WebGPU and Wasm to unify AI tools into a high-performance, hot-swappable ecosystem.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-06-23T12:09:12.697887Z",
+    "firstAccessTime": "2026-06-23T12:09:12.697887Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "39d64111-2bef-4ce8-9800-7e53469d4576"
+      }
+    },
+    "name": "Remix: OMNI Aggregator",
+    "description": "OMNI-Aggregator \u0026 Autonomous Key Provisioning Engine with Gemini High Thinking"
+  }]
+}
